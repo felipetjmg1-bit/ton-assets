@@ -1,5 +1,8 @@
 ![Status: Fork e demonstração](https://img.shields.io/badge/Status-Fork%20e%20demonstração-blue) | ![Licença em revisão](https://img.shields.io/badge/Licen%C3%A7a-em%20revis%C3%A3o-lightgrey) | [![Patrocinar](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?logo=githubsponsors)](https://github.com/sponsors/felipetjmg1-bit)
 
+<p align="center"><img src="PROJECT-OVERVIEW.svg" alt="Diagrama explicativo de TON Assets" width="100%"></p>
+
+
 # TON Assets — Fork de Catálogo de Ativos
 
 > Este repositório é um fork de [tonkeeper/ton-assets](https://github.com/tonkeeper/ton-assets). Consulte os avisos de autoria, os termos do upstream e a origem dos ativos antes de reutilizar ou redistribuir.
@@ -68,3 +71,6 @@ Este repositório é um fork e o licenciamento herdado requer revisão: mantenho
 O desenvolvimento aberto exige tempo para manutenção, documentação, testes, revisão de contribuições e resposta a issues. Se este projeto for útil, considere apoiar a continuidade pelo [GitHub Sponsors](https://github.com/sponsors/felipetjmg1-bit). O apoio não representa promessa de funcionalidades, prazo de entrega ou suporte comercial.
 
 [![Patrocinar felipetjmg1-bit](https://img.shields.io/badge/Patrocinar%20no-GitHub%20Sponsors-ea4aaa?logo=githubsponsors)](https://github.com/sponsors/felipetjmg1-bit)
+
+
+**Empresa responsável:** Impulso Digital Soluções em IA.
